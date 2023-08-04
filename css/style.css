@@ -1,0 +1,148 @@
+body {
+    margin-top: 20%;
+}
+
+main {
+    margin: auto;
+    margin-top: 10%;
+
+
+    width: 577px;
+    height: 400px;
+    background-color: #ffffff;
+
+    border-radius: 10%;
+    box-shadow: 10px 5px 5px hsl(228, 83%, 95%);
+}
+
+.div1 {
+    height: 100%;
+    width: 50%;
+
+    float: left;
+
+    background-color: hsl(250, 98%, 62%);
+    border-radius: 10%;
+
+}
+
+.teks {
+    margin-top: 10%;
+    text-align: center;
+
+}
+
+.pika {
+
+    height: 160px;
+    width: 160px;
+
+    margin: 25% auto;
+    
+
+
+    background-color: hsl(253, 70%, 48%);
+    border-radius: 50%;
+
+    background: linear-gradient(to bottom, hsla(256, 72%, 46%, 1), hsla(241, 72%, 46%, 0));
+
+}
+
+.pik {
+    padding-top: 20%;
+    position: relative;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+
+.of1 {
+    font-size: 17px;
+    position: relative;
+    text-align: center;
+    color: rgb(37, 159, 196);
+}
+
+.gr{
+    padding-top: 20%;
+    text-align: center;
+    font-size: 24px;
+}
+.yous{
+    text-align: center;
+    font-size: 14px;
+}
+.rows {
+
+    width: 223px;
+    height: 100%;
+
+    margin-right: 20px;
+
+    margin-top: 10%;
+
+    float: right;
+
+    line-height: 40px;
+    text-align: center;
+}
+
+p {
+
+    font-weight: 700;
+    font-size: 18;
+
+    margin: 10;
+
+    vertical-align: middle;
+    border-radius: 10px;
+
+
+}
+
+.r1 {
+
+    text-align: left;
+    background-color: white;
+    color: black;
+    width: 80%;
+}
+
+
+
+.r2 {
+
+    background-color: hsl(6, 100%, 98%);
+    color: hsl(0, 100%, 67%);
+    width: 80%;
+
+}
+
+.r3 {
+    color: hsl(39, 100%, 56%);
+    background-color: hsl(42, 100%, 97%);
+    width: 80%
+}
+
+.r4 {
+    color: hsl(166, 100%, 37%);
+    background-color: hsl(180, 44%, 96%);
+    width: 80%
+}
+
+.r5 {
+    color: hsl(234, 85%, 45%);
+    background-color: hsl(240, 71%, 97%);
+    width: 80%
+}
+
+.r6 {
+
+
+    margin-top: 15%;
+    color: white;
+    background-color: hsl(224, 30%, 27%);
+    width: 80%;
+    border-radius: 20px;
+
+}
